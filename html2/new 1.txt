@@ -1,0 +1,17 @@
+<html>
+<head><title> DevAssign2/html2</title></head>
+<body>
+<table>
+<tr><th> align="left" left</th>
+<th> align="centre" centre</th>
+<th> align="right" right</th>
+</tr>
+<tr><th> align="left" left</th>
+<th> align="centre" centre</th>
+<th> align="right" right</th>
+</tr>
+<tr><th> align="left" left</th>
+<th> align="centre" centre</th>
+<th> align="right" right</th>
+</body>
+</html>
